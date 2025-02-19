@@ -9,3 +9,5 @@ Q
 !contracts/energy-consumption.clar,a/9/a9942c46a6b6cbf16d6d67723ec19dbd3badaba8
 P
  tests/energy-consumption.test.ts,9/1/91d861ee7fbbcec74ea413450391b44f53c77bb0
+F
+contracts/trading.clar,7/e/7e480343699ccc9440a9b0956f23152743eb78b7
